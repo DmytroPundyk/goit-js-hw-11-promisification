@@ -1,2 +1,2 @@
-# goit-js-hw-11-promisification
-hw11
+# goit-js-hw-10-food-service
+ДЗ№10
